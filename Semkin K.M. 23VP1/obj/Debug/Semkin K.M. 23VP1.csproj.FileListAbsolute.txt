@@ -1,0 +1,10 @@
+C:\Users\kiril\source\repos\Semkin K.M. 23VP1\Semkin K.M. 23VP1\bin\Debug\Semkin K.M. 23VP1.exe.config
+C:\Users\kiril\source\repos\Semkin K.M. 23VP1\Semkin K.M. 23VP1\bin\Debug\Semkin K.M. 23VP1.exe
+C:\Users\kiril\source\repos\Semkin K.M. 23VP1\Semkin K.M. 23VP1\bin\Debug\Semkin K.M. 23VP1.pdb
+C:\Users\kiril\source\repos\Semkin K.M. 23VP1\Semkin K.M. 23VP1\obj\Debug\Semkin K.M. 23VP1.csproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\Semkin K.M. 23VP1\Semkin K.M. 23VP1\obj\Debug\Semkin_K.M._23VP1.Form1.resources
+C:\Users\kiril\source\repos\Semkin K.M. 23VP1\Semkin K.M. 23VP1\obj\Debug\Semkin_K.M._23VP1.Properties.Resources.resources
+C:\Users\kiril\source\repos\Semkin K.M. 23VP1\Semkin K.M. 23VP1\obj\Debug\Semkin K.M. 23VP1.csproj.GenerateResource.cache
+C:\Users\kiril\source\repos\Semkin K.M. 23VP1\Semkin K.M. 23VP1\obj\Debug\Semkin K.M. 23VP1.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\Semkin K.M. 23VP1\Semkin K.M. 23VP1\obj\Debug\Semkin K.M. 23VP1.exe
+C:\Users\kiril\source\repos\Semkin K.M. 23VP1\Semkin K.M. 23VP1\obj\Debug\Semkin K.M. 23VP1.pdb
